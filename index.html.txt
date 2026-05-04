@@ -1,0 +1,2 @@
+<!DOCTYPE html> <html> <head> <title>My Professional Site</title> <style> body { font-family: Arial; text-align: center; background: #f4f4f4; } .container { margin-top: 100px; background: white; padding: 50px; display: inline-block; border-radius: 10px; box-shadow: 0px 0px 10px rgba(0,0,0,0.1); } h1 { color: #333; } p { color: #666; } </style> </head> <body> <div class="container"> <h1>Welcome to My Website</h1> <p>BCA Student & Tech Enthusiast</p> </div> </body> </html>
+ss
